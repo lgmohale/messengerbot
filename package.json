@@ -1,12 +1,19 @@
 {
   "name": "messenger-chatbot",
   "version": "1.0.0",
-  "description": "",
+  "description": "This is a facebook messenger chatbot for spaceFeX that will help the Astronauts and spaceFeX engineers to determine the status of the ship during its space journeys.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "keywords": [
+    "facebook",
+    "messenger",
+    "chatbot",
+    "node",
+    "spaceFeX"
+  ],
+  "author": "Lucas Mohale",
   "license": "ISC",
   "dependencies": {
     "body-parse": "^0.1.0",
